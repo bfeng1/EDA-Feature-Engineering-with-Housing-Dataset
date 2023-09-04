@@ -1,6 +1,17 @@
 # EDA-Feature-Engineering-with-Housing-Dataset
 
-## Objective
+## A bit about me
+🚀 Hi there! I'm Bin Feng, a Business Intelligence Engineer with a burning passion for all things Data Science and Machine Learning. I thrive on the thrill of exploring data, extracting insights, and turning them into actionable strategies.
+
+📊 My journey in this field has been incredible, but I'm always hungry for more knowledge and skills. I firmly believe that continuous learning is the key to staying at the forefront of this dynamic industry. That's why I'm constantly seeking opportunities to sharpen my skills and delve into advanced models.
+
+🤝 Collaboration is at the heart of my work ethic. I'm eager to team up with like-minded individuals to create something truly exceptional. Whether it's a groundbreaking project or a fascinating experiment, I'm all ears for fresh ideas and open to any advice or suggestions that can elevate our work.
+
+💡 Let's innovate, explore, and make a positive impact together. Feel free to reach out, and let's embark on this exciting journey of data-driven discovery!
+
+Thanks for connecting! 🌟
+
+## Objective of project
 The main objective of this project is to explore different methods in exploratory data analysis and feature engineering. In the project, you can find the following:
 * Exploratory Data Analysis (EDA)
 * Feature Engineering
